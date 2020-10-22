@@ -1,12 +1,10 @@
 import React from 'react';
-import Login from './client/login/login';
-import Header from './Header';
+import { Routes } from './client/routers/routes';
 
-function App() {
+const App = () => {
   return (
     <div className="container">
-      {/* <Header /> */}
-      <Login />
+      <Routes />
     </div>
   );
 }
