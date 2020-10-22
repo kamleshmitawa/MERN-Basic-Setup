@@ -1,3 +1,10 @@
+In Shorts:
+IF you want to run both server and client using one command then type : npm run dev
+then server will run Node Express Server,MongoDb, and React project.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
